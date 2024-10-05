@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "577829908024",
+    "firebase_url": "https://maddfinal-default-rtdb.firebaseio.com",
+    "project_id": "maddfinal",
+    "storage_bucket": "maddfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577829908024:android:95adbe86bfefb1c9c440cd",
+        "android_client_info": {
+          "package_name": "com.example.maddfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4afRjdTRCSRbtv9uRCRGJDosxTmRsmx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
